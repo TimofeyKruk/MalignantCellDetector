@@ -1,0 +1,16 @@
+*.docx
+*.doc
+Datasets/
+*.pdf
+*.txt
+*.iml
+CellMarkUp/.idea/
+CellMarkUp/out/
+*.ipynb_checkpoints/
+/*.ipynb_checkpoints/
+HistologyImageExamples/
+TrainingModels/logs/
+*.pickle
+MobileNetModel/logs/
+Blurred/
+*.png
